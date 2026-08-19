@@ -1,0 +1,1 @@
+Python program to monitor Sell and Squeeze indicators for a list of tickers.  Set the output file locations in the first code block.  Uses Yfinance as the source.  Other prerequisites are in requirements.txt
